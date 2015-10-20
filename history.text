@@ -1,0 +1,210 @@
+    1  sshwluth@10.0.0.1
+    2  ssh<wluth>@10.0.0.1
+    3  ssh wluth@10.0.0.1
+    4  ssh wluth@10.0.01
+    5  ssh wluth@10.0.0.1
+    6  ssh wluth@10.0.0.1
+    7  ssh wluth@10.0.0.1
+    8  ssh wluth@10.0.0.1
+    9  ssh wluth@10.0.0.1
+   10  ssh wluth@10.0.0.1
+   11  ssh wluth@10.0.0.1
+   12  ssh wluth@10.0.0.1
+   13  ssh wluth@10.0.0.1
+   14  ssh wlut@10.0.0.1
+   15  ssh wluth@10.0.0.1
+   16  java -version
+   17  run/Users/wessluth/Downloads/GameMaker-Installer-8.1.exe 
+   18  Is/Volumes
+   19  ls /Volumes
+   20  default read /Applicatoins/Safari.app/Conetents/Info, LSEnvironment
+   21  defaults read /Applications/Safari.app/Contents/INFO LSEnvironment
+   22  defaults read ~/.MacOSX/environment DYLD_INSERT_LIBRARIES
+   23  defaults delete ~/.MacOSX/environment DYLD_INSERT_LIBRARIES
+   24  killall Dock
+   25  diskutil eraseVolume HFS+ disk1
+   26  command
+   27  enter
+   28  diskutil list
+   29  diskutil unmount force /dev/disk0
+   30  diskutil unmountDisk
+   31  ipconfig /displaydns
+   32  comand
+   33  command
+   34  prompt
+   35  ipconfig
+   36  ipconfig/displaydns
+   37  sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ Yosemite.app --nointeraction
+   38  $ python swc-installation-test-1.py
+   39  $ python swc-installation-test-1.py
+   40  $ python swc-installation-test-1.py
+   41  python swc-installation-test-1.py
+   42  python swc-installation-test-1.py
+   43  bash Anaconda-2.3.0-MacOSX-x86_64.sh
+   44  bash Anaconda-2.3.0-MacOSX-x86_64.sh
+   45  python swc-installation-test-1.py
+   46  bash python swc-installation-test-1.py
+   47  python swc-installation-test-1.py
+   48  $ python swc-installation-test-1.py
+   49  bash $ python swc-installation-test-1.py
+   50  ;2C
+   51  python swc-installation-test-1.py
+   52  bash Anaconda-2.3.0-MacOSX-x86_64.sh
+   53   python swc-installation-test-1.py
+   54  whoami
+   55  whereami
+   56  pwd
+   57  ls
+   58  -a
+   59  ls -a
+   60  ls -l
+   61  ls -al
+   62  clear
+   63  man ls
+   64  man ls
+   65  clear
+   66  ls /
+   67  ls /
+   68  ls /usr/
+   69  ls /User
+   70  ls /User
+   71  ls /User
+   72  ls /Users
+   73  ls /Userls /User
+   74  s /User
+   75  ls /Users
+   76  clear
+   77  ls /Users
+   78  ls /User
+   79  ls
+   80  ls /User
+   81  ls /User
+   82  ls /Users
+   83  ls /wessluth
+   84  ls /Users/wessluth
+   85  l /Users
+   86  ls /User/Shared
+   87  ls /Users/Shared
+   88  ls /Users/wessluth/Documents
+   89  ls Documents/
+   90  ls Documents/
+   91  ls Documents/Scholarships/
+   92  clear
+   93  ls -al
+   94  ls .
+   95  ls Users
+   96  ls/USers
+   97  ls Users
+   98  ls /User
+   99  ls /Users
+  100  ls .
+  101  ls ..
+  102  ls wessluth/
+  103  ls .
+  104  ls /Users
+  105  ls ..
+  106  ls /Users/wessluth/
+  107  ls .
+  108  ls wessluth/
+  109  ls Documents/
+  110  pwd
+  111  ls /User/wessluth
+  112  ls /Users/wessluth/
+  113  ls ..
+  114  ls
+  115  ls .
+  116  ls ../
+  117  ls ../Shared/
+  118  ls ../Shared/Library/
+  119  ls ..
+  120  ls ../wessluth/
+  121  man ls
+  122  ls /Users
+  123  ls /Users
+  124  cd /
+  125  pwd
+  126  cd /Users
+  127  pwd
+  128  cd /Users/wessluth/
+  129  pwd
+  130  cd/
+  131  cd /
+  132  cd ~
+  133  pwd
+  134  ls /Users/wessluth/
+  135  cd /Users/wessluth/Desktop/
+  136  pwd
+  137  ls
+  138  cd ~
+  139  pwd
+  140  cd Desktop/
+  141  pwd
+  142  ls
+  143  ls -l
+  144  man pwd
+  145  pwd
+  146  mkdir SoftwareCarpentry
+  147  ls
+  148  ls -a
+  149  cd SoftwareCarpentry/
+  150  pwd
+  151  mkdir Terminal Testing
+  152  ls
+  153  man mkdir
+  154  mkdir TerminalTesting
+  155  ls
+  156  cd TerminalTesting/
+  157  nano Important_Ideas
+  158  ls
+  159  nano Important_Ideas
+  160  man nano
+  161  cat Important_Ideas 
+  162  cat -n Important_Ideas 
+  163  ls
+  164  cp Important_Ideas ..
+  165  ls
+  166  ls ..
+  167  pwd
+  168  rw ./
+  169  rm .
+  170  cd ..
+  171  pwd
+  172  rm TerminalTesting/
+  173  rm -r TerminalTesting/
+  174  ls
+  175  rm -r T*
+  176  ls
+  177  ls
+  178  cp Important_Ideas Important_Ideas.txt
+  179  ls
+  180  rm Important_Ideas.txt
+  181  ls
+  182  mv Important_Ideas Important_Ideas.txt
+  183  ls
+  184  curl -L -O http://bit.ly/1ylW533
+  185  ls
+  186  cat lylW533
+  187  cat 1ylW533
+  188  head 1ylW533
+  189  head -1  1ylW533
+  190  head -3 1ylW533
+  191  head 1ylW533
+  192  head -1  1ylW533
+  193  move 1ylW533 MobyDick.txt
+  194  mv 1ylW533 MobyDick.txt
+  195  ls
+  196  head -1 MobyDick.txt 
+  197  tail -1 MobyDick.txt 
+  198  tail MobyDick.txt 
+  199  man mv
+  200  pwd
+  201  cat Important_Ideas.txt MobyDick.txt 
+  202  grep whale MobyDick.txt 
+  203  man grep
+  204  grep -n  whale MobyDick.txt 
+  205  wc MobyDick.txt 
+  206  wc MobyDick.txt > MobyDickCount.txt
+  207  ls
+  208  cat MobyDickCount.txt 
+  209  history
+  210  history > history.text
