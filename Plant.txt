@@ -1,5 +1,9 @@
 This is a test. 
 
+<<<<<<< HEAD
 This is another line of text.
 
 Nevermind, this is the actual version of text.
+=======
+Here is another line.
+>>>>>>> example
